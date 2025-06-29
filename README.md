@@ -6,10 +6,10 @@ Welcome to the **Process Scheduling Simulator** - a collection of Python scripts
 
 ## Included Algorithms
 
-- **Round Robin (`round-robin-sim.py`)**  
+- **Round Robin (`round-robin-sim.py`)**<br>
   A time-slicing CPU party where everyone gets a turn - whether they finish or not.
 
-- **Shortest Job First (`sjf-sim.py`)**
+- **Shortest Job First (`sjf-sim.py`)**<br>
   Runs the shortest job first and finishes it before starting the next (non-preemptive).
 
 <!-- Future entries -->
